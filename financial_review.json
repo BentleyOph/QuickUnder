@@ -1,0 +1,42 @@
+[
+    {
+        "company_name": "FEKAN Howell and Associates",
+        "financial_data": [
+            {
+                "year": 2022,
+                "revenue": 51513198.0,
+                "expenses": 39435902.0,
+                "net_profit": 11961271.0
+            },
+            {
+                "year": 2023,
+                "revenue": 74165653.0,
+                "expenses": 44595964.0,
+                "net_profit": 28876414.0
+            }
+        ],
+        "profit_or_loss": "Profit",
+        "risk_analysis": "FEKAN Howell and Associates has shown a considerable increase in revenue from 2022 to 2023, along with a significant rise in net profit, indicating strong positive trends for revenue and profitability. While expenses also increased, the growth in revenue surpasses the growth in expenses, which is positive. This consistent profit and revenue growth suggests a low-to-moderate financial risk, particularly if operations remain stable and revenue continues to grow.",
+        "comments": "FEKAN Howell and Associates is maintaining healthy financial practices with significant year-on-year growth in revenue and net profit from 2022 to 2023. The firm appears to effectively manage its expenses while still growing its top-line revenue, positioning it well for future financial stability. With robust financial controls as stated in their policymakers' sections and consistent capital injections, the firm is set on a strong financial trajectory."
+    },
+    {
+        "company_name": "FEKAN Howell and Associates",
+        "financial_data": [
+            {
+                "year": 2022,
+                "revenue": 51513198.0,
+                "expenses": 38381328.0,
+                "net_profit": 12054644.0
+            },
+            {
+                "year": 2021,
+                "revenue": 13813494.0,
+                "expenses": 10596968.0,
+                "net_profit": 3168441.0
+            }
+        ],
+        "profit_or_loss": "Profit",
+        "risk_analysis": "FEKAN Howell and Associates shows a significant increase in revenue and net profit from 2021 to 2022, suggesting strong financial performance and growth. However, the reliance on a few revenue lines could be a risk if these sectors face economic downturns.",
+        "comments": "The company demonstrated solid revenue growth from 2021 to 2022 with over 200% increase in net profit, indicating effective business strategies and market demand for its services. The 'Profit' status for both years reflects a well-managed cost structure and operational performance."
+    }
+]
